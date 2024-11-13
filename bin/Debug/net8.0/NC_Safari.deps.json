@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NC_Safari/1.0.0": {
+        "runtime": {
+          "NC_Safari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NC_Safari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

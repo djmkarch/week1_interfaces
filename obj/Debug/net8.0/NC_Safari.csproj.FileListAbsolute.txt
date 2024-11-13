@@ -1,0 +1,14 @@
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\NC_Safari.GeneratedMSBuildEditorConfig.editorconfig
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\NC_Safari.AssemblyInfoInputs.cache
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\NC_Safari.AssemblyInfo.cs
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\NC_Safari.csproj.CoreCompileInputs.cache
+D:\NC\week1\NC_Safari\NC_Safari\bin\Debug\net8.0\NC_Safari.exe
+D:\NC\week1\NC_Safari\NC_Safari\bin\Debug\net8.0\NC_Safari.deps.json
+D:\NC\week1\NC_Safari\NC_Safari\bin\Debug\net8.0\NC_Safari.runtimeconfig.json
+D:\NC\week1\NC_Safari\NC_Safari\bin\Debug\net8.0\NC_Safari.dll
+D:\NC\week1\NC_Safari\NC_Safari\bin\Debug\net8.0\NC_Safari.pdb
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\NC_Safari.dll
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\refint\NC_Safari.dll
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\NC_Safari.pdb
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\NC_Safari.genruntimeconfig.cache
+D:\NC\week1\NC_Safari\NC_Safari\obj\Debug\net8.0\ref\NC_Safari.dll
